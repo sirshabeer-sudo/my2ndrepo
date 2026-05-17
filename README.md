@@ -1,6 +1,3 @@
 # my2ndrepos 
 
-asdf
-asd
-asda
-sd
+This is my sudo repo
